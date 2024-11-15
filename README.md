@@ -16,6 +16,8 @@ DATABASE_ID= (ID do Banco de Dados)
 
 ### Comandos: (Obs.: Os dois projetos rodam sobre comandos diferentes)
 
+Comando para instalar as depêndencias: "yarn install"
+
 Comando para inicializar servidor padrão: "yarn start"
 
 Comando para inicializar servidor padrão (desenvolvimento): "yarn dev"
