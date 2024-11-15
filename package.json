@@ -1,0 +1,22 @@
+{
+  "name": "Manipulador-De-Banco-De-Dados-Notion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PereiraLegend/Manipulador-De-Banco-De-Dados-Notion.git",
+  "author": "Lucas <pereirapro123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "dev:basic": "nodemon basic/app.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "Manipulador-De-Banco-De-Dados-Notion": "file:",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7"
+  }
+}
